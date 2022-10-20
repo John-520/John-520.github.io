@@ -19,14 +19,25 @@ Tong Qingbin,  Liu Ziyu, <b>Lu Feiyu</b>,Feng Ziwei and Wan Qingzhu <br />
 <i>Sensor, 2022. [三区][PDF]</i></p>
 
 
+</ul>
 <ul>
-<li><p><a href="[https://www.mdpi.com/1424-8220/22/16/6108](https://www.mdpi.com/2076-3417/12/14/7346)">A Novel Method for Fault Diagnosis of Bearings with Small and Imbalanced Data Based on Generative Adversarial Networks</a> <br />
+<li><p><a href="https://www.mdpi.com/2076-3417/12/14/7346">A Novel Method for Fault Diagnosis of Bearings with Small and Imbalanced Data Based on Generative Adversarial Networks</a> <br />
 Tong Qingbin, <b>Lu Feiyu</b>,Feng Ziwei and Wan Qingzhu <br />
 <i>Applied Sciences, 2022. [四区][PDF]</i></p>
   
+</ul>
+<ul>
+<li><p><a href="https://iopscience.iop.org/article/10.1088/1361-6501/ac78c5">Explainable 1DCNN with demodulated frequency features method for fault diagnosis of rolling bearing under time-varying speed conditions</a> <br />
+Tong Qingbin, <b>Lu Feiyu</b>,Feng Ziwei and Wan Qingzhu <br />
+<i>Measurement Science and Technolog <b>(MST)</b>, 2022. [三区][PDF]</i></p>
   
   
- 
+</ul>
+<ul>
+<li><p><a href="https://link.springer.com/article/10.1007/s12206-021-0405-7">A parameter-adaptive ACMD method based on particle swarm optimization algorithm for rolling bearing fault diagnosis under variable speed</a> <br />
+Ma Zengqiang, <b>Lu Feiyu</b>,Liu Suyan and Li Xin <br />
+<i>Journal of Mechanical Science and Technology <b>(JMST)</b>, 2021. [四区][PDF]</i></p>
+  
   
   
 
