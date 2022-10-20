@@ -22,7 +22,7 @@ Tong Qingbin, <b>Lu Feiyu</b>,Feng Ziwei and Wan Qingzhu <br />
 
 <ul>
 <li><p><a href="https://iopscience.iop.org/article/10.1088/1361-6501/ac78c5">Explainable 1DCNN with demodulated frequency features method for fault diagnosis of rolling bearing under time-varying speed conditions</a> <br />
-Tong Qingbin, <b>Lu Feiyu</b>,Feng Ziwei and Wan Qingzhu <br />
+ <b>Lu Feiyu</b>,Tong Qingbin,Feng Ziwei and Wan Qingzhu <br />
 <i>Measurement Science and Technolog <b>(MST)</b>, 2022. [三区][PDF]</i></p>
 </li></ul>
 
