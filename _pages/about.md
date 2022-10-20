@@ -12,30 +12,11 @@ redirect_from:
 
 学术论文
 ======
----
-title: "A New De-Noising Method Based on Enhanced Time-Frequency Manifold and Kurtosis-Wavelet Dictionary for Rolling Bearing Fault Vibration Signal"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-#This paper is about the number 1. The number 2 is left for future work.
-#[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
-
-</li>
-</ul>
 <ul>
-<li><p><a href="https://www.mdpi.com/1424-8220/22/16/6108">EMPC: A New De-Noising Method Based on Enhanced Time-Frequency Manifold and Kurtosis-Wavelet Dictionary for Rolling Bearing Fault Vibration Signal</a> <br />
+<li><p><a href="https://www.mdpi.com/1424-8220/22/16/6108">A New De-Noising Method Based on Enhanced Time-Frequency Manifold and Kurtosis-Wavelet Dictionary for Rolling Bearing Fault Vibration Signal</a> <br />
 Tong, Qingbin and Liu, Ziyu and Lu, Feiyu and Feng, Ziwei and Wan, Qingzhu <br />
 <i>Sensor, 2022. [三区][PDF]</a></i></p>
-
-
-
 
 
 </li>
