@@ -62,7 +62,7 @@ Li Xin,  Ma Zengqiang, Liu Suyan, and <b>Lu Feiyu</b>,<br />
 </li></ul>
 
 <ul>
-<li><p><a href="https://www.mdpi.com/1424-8220/22/16/6108">Envelope demodulation method based on SET for fault diagnosis of rolling bearings under variable speed</a> <br />
+<li><p><a href="https://www.jstage.jst.go.jp/article/jamdsm/14/7/14_2020jamdsm0104/_article">Envelope demodulation method based on SET for fault diagnosis of rolling bearings under variable speed</a> <br />
 Ma Zengqiang, Li Xin, Liu Suyan, Ge Yongjie, and <b>Lu Feiyu</b>,<br />
 <i>Journal of Advanced Mechanical Design Systems and Manufacturing, 2020. [四区][PDF]</i></p>
 </li></ul>
@@ -74,23 +74,19 @@ Ma Zengqiang, Li Xin, Liu Suyan, Ge Yongjie, and <b>Lu Feiyu</b>,<br />
 ======
 <ul>
 <li><p>佟庆彬,<b>路飞宇</b>,冯子微,刘子雨,万庆祝,曹君慈,安国平,王猛,刘瑞芳. 变转速工况下样本不平衡的滚动轴承故障诊断方法及系统[P]. 北京市：CN114838936A,2022-08-02. (已公开)
-</li>
-</ul>
+</li></ul>
 
 <ul>
 <li><p>佟庆彬,<b>路飞宇</b>,冯子微,刘子雨,万庆祝,曹君慈,安国平,王猛,刘瑞芳. 基于可解释1DCNN模型的滚动轴承故障诊断方法及系统[P]. 北京市：CN114298110A,2022-04-08. (已公开)
-</li>
-</ul>
+</li></ul>
 
 <ul>
 <li><p>基于广义解调的滚动轴承故障诊断系统（软件著作权）
-</li>
-</ul>
+</li></ul>
 
 <ul>
 <li><p>基于阶次谱分析的滚动轴承故障诊断系统（软件著作权）
-</li>
-</ul>
+</li></ul>
 
 主持/参与项目
 ======
