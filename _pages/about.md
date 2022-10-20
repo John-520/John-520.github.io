@@ -15,9 +15,20 @@ redirect_from:
 
 <ul>
 <li><p><a href="https://www.mdpi.com/1424-8220/22/16/6108">A New De-Noising Method Based on Enhanced Time-Frequency Manifold and Kurtosis-Wavelet Dictionary for Rolling Bearing Fault Vibration Signal</a> <br />
-Tong, Qingbin and Liu, Ziyu and Lu, Feiyu and Feng, Ziwei and Wan, Qingzhu <br />
-<i>Sensor, 2022. [三区][PDF]</a></i></p>
+Tong Qingbin,  Liu Ziyu, <b>Lu Feiyu</b>,Feng Ziwei and Wan Qingzhu <br />
+<i>Sensor, 2022. [三区][PDF]</i></p>
 
+
+<ul>
+<li><p><a href="[https://www.mdpi.com/1424-8220/22/16/6108](https://www.mdpi.com/2076-3417/12/14/7346)">A Novel Method for Fault Diagnosis of Bearings with Small and Imbalanced Data Based on Generative Adversarial Networks</a> <br />
+Tong Qingbin, <b>Lu Feiyu</b>,Feng Ziwei and Wan Qingzhu <br />
+<i>Applied Sciences, 2022. [四区][PDF]</i></p>
+  
+  
+  
+ 
+  
+  
 
 </li>
 </ul>
