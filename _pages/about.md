@@ -13,12 +13,6 @@ redirect_from:
 学术论文
 ======
 
-<ul>
-<li><p><a href="https://www.mdpi.com/1424-8220/22/16/6108">A New De-Noising Method Based on Enhanced Time-Frequency Manifold and Kurtosis-Wavelet Dictionary for Rolling Bearing Fault Vibration Signal</a> <br />
-Tong Qingbin,  Liu Ziyu, <b>Lu Feiyu</b>,Feng Ziwei and Wan Qingzhu <br />
-<i>Sensor, 2022. [三区][PDF]</i></p>
-
-
 </ul>
 <ul>
 <li><p><a href="https://www.mdpi.com/2076-3417/12/14/7346">A Novel Method for Fault Diagnosis of Bearings with Small and Imbalanced Data Based on Generative Adversarial Networks</a> <br />
@@ -31,57 +25,36 @@ Tong Qingbin, <b>Lu Feiyu</b>,Feng Ziwei and Wan Qingzhu <br />
 Tong Qingbin, <b>Lu Feiyu</b>,Feng Ziwei and Wan Qingzhu <br />
 <i>Measurement Science and Technolog <b>(MST)</b>, 2022. [三区][PDF]</i></p>
   
-  
 </ul>
 <ul>
 <li><p><a href="https://link.springer.com/article/10.1007/s12206-021-0405-7">A parameter-adaptive ACMD method based on particle swarm optimization algorithm for rolling bearing fault diagnosis under variable speed</a> <br />
 Ma Zengqiang, <b>Lu Feiyu</b>,Liu Suyan and Li Xin <br />
 <i>Journal of Mechanical Science and Technology <b>(JMST)</b>, 2021. [四区][PDF]</i></p>
-  
-  
-  
 
-</li>
 </ul>
 <ul>
-<li><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1574119221000560">EMPC: Energy-Minimization Path Construction for Data Collection and Wireless Charging in WRSN</a> <br />
-Ping Zhong, <b>AiKun Xu</b>, Shigeng Zhang, Yiming Zhang and Yingwen Chen <br />
-<i>Pervasive and Mobile Computing <b>(PMC)</b>, 2021. [JCR Q2]<a href="pdf/PMC.pdf">[PDF]</a></i></p>
+<li><p><a href="https://ieeexplore.ieee.org/document/8970283/">An Adaptive Generalized Demodulation Method for Multimedia Spectrum Analysis is Applied in Rolling Bearing Fault Diagnosis</a> <br />
+Ma Zengqiang, <b>Lu Feiyu</b>,Liu Suyan and Li Xin <br />
+<i>IEEE ACCESS, 2020. [二区][PDF]</i></p>
   
   
+<h3>其它合著</h3>	
 
+<ul>
+<li><p><a href="https://www.mdpi.com/1424-8220/22/16/6108">A New De-Noising Method Based on Enhanced Time-Frequency Manifold and Kurtosis-Wavelet Dictionary for Rolling Bearing Fault Vibration Signal</a> <br />
+Tong Qingbin,  Liu Ziyu, <b>Lu Feiyu</b>,Feng Ziwei and Wan Qingzhu <br />
+<i>Sensor, 2022. [三区][PDF]</i></p>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<ul>
+<li><p><a href="https://ieeexplore.ieee.org/document/9144567">Fractional Synchrosqueezing Transformation and its Application in the Estimation of the Instantaneous Frequency of a Rolling Bearing</a> <br />
+Li Xin,  Ma Zengqiang, Liu Suyan, and <b>Lu Feiyu</b>,<br />
+<i>IEEE ACCESS, 2020. [二区][PDF]</i></p>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<ul>
+<li><p><a href="https://www.mdpi.com/1424-8220/22/16/6108">Envelope demodulation method based on SET for fault diagnosis of rolling bearings under variable speed</a> <br />
+Ma Zengqiang, Li Xin, Liu Suyan, Ge Yongjie, and <b>Lu Feiyu</b>,<br />
+<i>Journal of Advanced Mechanical Design Systems and Manufacturing, 2020. [四区][PDF]</i></p>
+  
+  
+  
+  
