@@ -101,6 +101,6 @@ Ma Zengqiang, Li Xin, Liu Suyan, Ge Yongjie, and <b>Lu Feiyu</b>,<br />
 
 2022年 博士一等学业奖学金<br />
 2020年 校级优秀硕士学位论文<br />
-2020年 三号学生<br />
+2020年 三好学生<br />
 2020年 硕士研究生国家奖学金<br />
 2019年 硕士研究生一等学业奖学金<br />
