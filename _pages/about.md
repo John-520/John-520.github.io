@@ -30,11 +30,22 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 </li>
 </ul>
 <ul>
+<li><p><a href="https://www.mdpi.com/1424-8220/22/16/6108">EMPC: A New De-Noising Method Based on Enhanced Time-Frequency Manifold and Kurtosis-Wavelet Dictionary for Rolling Bearing Fault Vibration Signal</a> <br />
+Tong, Qingbin and Liu, Ziyu and Lu, Feiyu and Feng, Ziwei and Wan, Qingzhu <br />
+<i>Sensor, 2022. [三区][PDF]</a></i></p>
+
+
+
+
+
+</li>
+</ul>
+<ul>
 <li><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1574119221000560">EMPC: Energy-Minimization Path Construction for Data Collection and Wireless Charging in WRSN</a> <br />
 Ping Zhong, <b>AiKun Xu</b>, Shigeng Zhang, Yiming Zhang and Yingwen Chen <br />
 <i>Pervasive and Mobile Computing <b>(PMC)</b>, 2021. [JCR Q2]<a href="pdf/PMC.pdf">[PDF]</a></i></p>
-
-
+  
+  
 
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
