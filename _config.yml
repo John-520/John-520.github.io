@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Beijing"
-title                    : "路飞宇(Feiyu Lu)"
+title                    : "个人简历"
 title_separator          : "-"
 name                     : &name "Feiyu Lu"
 description              : &description "personal description"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "路飞宇(Feiyu Lu)"
   avatar           : "路飞宇.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Beijing"
+  bio              : "北京交通大学在读博士研究生"
+  location         : "北京"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Feiyu-Lu-7"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :  "21117039@bjtu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Feiyu-Lu-7"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
