@@ -13,6 +13,11 @@ redirect_from:
 学术论文
 ======
 
+<ul>
+<li><p><a href="https://ieeexplore.ieee.org/document/9931460">Unbalanced Bearing Fault Diagnosis under Various Speeds based on Spectrum Alignment and Deep Transfer Convolution Neural Network</a> <br />
+ <b>Lu Feiyu</b>,Tong Qingbin,Feng Ziwei and Wan Qingzhu <br />
+<i>IEEE Transactions on Industrial Informatics <b>(IEEE TII)</b>, 2022. [一区][PDF]</i></p>
+</li></ul>
 
 <ul>
 <li><p><a href="https://www.mdpi.com/2076-3417/12/14/7346">A Novel Method for Fault Diagnosis of Bearings with Small and Imbalanced Data Based on Generative Adversarial Networks</a> <br />
