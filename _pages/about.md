@@ -16,7 +16,7 @@ redirect_from:
 <ul>
 <li><p><a href="https://ieeexplore.ieee.org/document/9931460">Unbalanced Bearing Fault Diagnosis under Various Speeds based on Spectrum Alignment and Deep Transfer Convolution Neural Network</a> <br />
  <b>Lu Feiyu</b>,Tong Qingbin,Feng Ziwei and Wan Qingzhu <br />
-<i>IEEE Transactions on Industrial Informatics <b>(IEEE TII)</b>, 2022. [一区][PDF]</i></p>
+<i>IEEE Transactions on Industrial Informatics <b>(IEEE TII)</b>, 2022. [一区][PDF](http://John-520.github.io/files/Unbalanced_Bearing_Fault_Diagnosis_under_Various_Speeds_based_on_Spectrum_Alignment_and_Deep_Transfer_Convolution_Neural_Network.pdf)</i></p>
 </li></ul>
 
 <ul>
