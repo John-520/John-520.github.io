@@ -13,7 +13,7 @@ redirect_from:
 学术论文
 ======
 <ul>
-<li><p><a href="https://ieeexplore.ieee.org/document/9931460">A deep targeted transfer network with clustering pseudo-label learning for fault diagnosis across different Machines</a> <br />
+<li><p><a href="[https://ieeexplore.ieee.org/document/9931460](https://www.sciencedirect.com/science/article/pii/S0888327024002425?via%3Dihub)">A deep targeted transfer network with clustering pseudo-label learning for fault diagnosis across different Machines</a> <br />
  <b>Lu Feiyu</b>, Tong Qingbin,Xuedong Jiang <br />
 <i>Mechanical Systems and Signal Processing <b>(MSSP)</b>, 2024. [一区]<a href="files/A deep targeted transfer network with clustering pseudo-label.pdf">[pdf]</a></i></p>
 </li></ul>
