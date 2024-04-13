@@ -39,7 +39,7 @@ Tong Qingbin, <b>Lu Feiyu</b>,Feng Ziwei and Wan Qingzhu <br />
 <ul>
 <li><p><a href="https://iopscience.iop.org/article/10.1088/1361-6501/ac78c5">Explainable 1DCNN with demodulated frequency features method for fault diagnosis of rolling bearing under time-varying speed conditions</a> <br />
  <b>Lu Feiyu</b>,Tong Qingbin,Feng Ziwei and Wan Qingzhu <br />
-<i>Measurement Science and Technolog <b>(MST)</b>, 2022. [三区][PDF]</i></p>
+<i>Measurement Science and Technology <b>(MST)</b>, 2022. [三区][PDF]</i></p>
 </li></ul>
 
 <ul>
@@ -63,7 +63,18 @@ Ma Zengqiang, <b>Lu Feiyu</b>,Liu Suyan and Li Xin <br />
   
   
 <h3>其它合著</h3>	
-  
+
+<ul>
+<li><p><a href="https://www.mdpi.com/1424-8220/24/7/2079">Deep Reconstruction Transfer Convolutional Neural Network for Rolling Bearing Fault Diagnosis</a> <br />
+Feng Ziwei, Tong Qingbin, Xuedong Jiang, <b>Lu Feiyu</b> <br />
+<i>Sensor, 2024. [三区][PDF]</i></p>
+</li></ul>
+
+<ul>
+<li><p><a href="https://iopscience.iop.org/article/10.1088/1361-6501/ad28b0">Interpretable parallel channel encoding convolutional neural network for bearing fault diagnosis</a> <br />
+ Tong Qingbin,Shouxin Du, Xuedong Jiang, <b>Lu Feiyu</b> <br />
+<i>Measurement Science and Technology <b>(MST)</b>, 2024. [三区][PDF]</i></p>
+</li></ul>
 
 <ul>
 <li><p><a href="https://www.mdpi.com/1424-8220/22/16/6108">A New De-Noising Method Based on Enhanced Time-Frequency Manifold and Kurtosis-Wavelet Dictionary for Rolling Bearing Fault Vibration Signal</a> <br />
