@@ -73,12 +73,6 @@ Ma Zengqiang, <b>Lu Feiyu</b>,Liu Suyan and Li Xin <br />
 <h3>其它合著</h3>	
 
 <ul>
-<li><p><a href="https://www.mdpi.com/1424-8220/24/7/2079">Interpretable parallel channel encoding convolutional neural network for bearing fault diagnosis</a> <br />
-Tong Qingbin, Shouxin Du, Xuedong Jiang, <b>Lu Feiyu</b> <br />
-<i>Sensor, 2024. [三区][PDF]</i></p>
-</li></ul>
-
-<ul>
 <li><p><a href="https://www.mdpi.com/1424-8220/24/7/2079">Deep Reconstruction Transfer Convolutional Neural Network for Rolling Bearing Fault Diagnosis</a> <br />
 Feng Ziwei, Tong Qingbin, Xuedong Jiang, <b>Lu Feiyu</b> <br />
 <i>Sensor, 2024. [三区][PDF]</i></p>
