@@ -57,20 +57,26 @@ Ma Zengqiang, <b>Lu Feiyu</b>,Liu Suyan and Li Xin <br />
 
 
 <ul>
-<li><p><a href="http://jvs.sjtu.edu.cn/CN/abstract/abstract9915.shtml">一种基于条件度量迁移学习的机械故障诊断可解释方法</a> <br />
+<li><p><a href="https://kns.cnki.net/kcms2/article/abstract?v=kxD1c6RDvBzejNFsUwEizdS3PdNOLlBQvMV_QmcbkADnThOqM3Hbt6r4zzEHJi0R-p04yK6KyqN_adHfyws9O76NzJzQu88FrtLiVELQyJnY7uKexk8OCO53WszaLoQJjeCSeCIAMJWOD7EL8HOYw292d6o6kwwAEBUMXADWv5bDMMZZrZH5lXn90ug5kgqw&uniplatform=NZKPT&language=CHS">一种基于条件度量迁移学习的机械故障诊断可解释方法</a> <br />
 <b>路飞宇</b>,佟庆彬, 姜学东 <br />
 <i>仪器仪表学报, 2024 [EI][PDF]</i></p>
 </li></ul>
 
 
 <ul>
-<li><p><a href="https://kns.cnki.net/kcms2/article/abstract?v=kxD1c6RDvBzejNFsUwEizdS3PdNOLlBQvMV_QmcbkADnThOqM3Hbt6r4zzEHJi0R-p04yK6KyqN_adHfyws9O76NzJzQu88FrtLiVELQyJnY7uKexk8OCO53WszaLoQJjeCSeCIAMJWOD7EL8HOYw292d6o6kwwAEBUMXADWv5bDMMZZrZH5lXn90ug5kgqw&uniplatform=NZKPT&language=CHS">一种基于广义解调的滚动轴承故障特征提取方法</a> <br />
+<li><p><a href="http://jvs.sjtu.edu.cn/CN/abstract/abstract9915.shtml">一种基于广义解调的滚动轴承故障特征提取方法</a> <br />
 马增强, <b>路飞宇</b>,刘素艳, 李欣, 胡鑫磊 <br />
 <i>振动与冲击, 2020. [EI][PDF]</i></p>
 </li></ul>
   
   
 <h3>其它合著</h3>	
+
+<ul>
+<li><p><a href="https://www.mdpi.com/1424-8220/24/7/2079">Interpretable parallel channel encoding convolutional neural network for bearing fault diagnosis</a> <br />
+Tong Qingbin, Shouxin Du, Xuedong Jiang, <b>Lu Feiyu</b> <br />
+<i>Sensor, 2024. [三区][PDF]</i></p>
+</li></ul>
 
 <ul>
 <li><p><a href="https://www.mdpi.com/1424-8220/24/7/2079">Deep Reconstruction Transfer Convolutional Neural Network for Rolling Bearing Fault Diagnosis</a> <br />
