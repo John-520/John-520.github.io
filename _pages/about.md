@@ -15,7 +15,7 @@ redirect_from:
 
 <ul>
 <li><p><a href="https://ieeexplore.ieee.org/document/10634863">Deep Multilayer Sparse Regularization Time-Varying Transfer Learning Networks With Dynamic Kullback–Leibler Divergence Weights for Mechanical Fault Diagnosis</a> <br />
- <b>Lu Feiyu</b>,Tong Qingbin, Xuedong Jiang, Feng Ziwei, Jianjun Xu and Jingyi Huo<br />
+ <b>Lu Feiyu</b>,Tong Qingbin, Jiang Xuedong, Feng Ziwei, Xu Jianjun and Huo Jingyi<br />
 <i>IEEE Transactions on Industrial Informatics <b>(IEEE TII)</b>, 2024 [一区]<a href="files/DMsrTTLN.pdf">[pdf]</a></i></p>
 </li></ul>
 
