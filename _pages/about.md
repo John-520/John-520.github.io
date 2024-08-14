@@ -12,6 +12,13 @@ redirect_from:
 
 学术论文
 ======
+
+<ul>
+<li><p><a href="https://ieeexplore.ieee.org/document/10634863">Deep Multilayer Sparse Regularization Time-Varying Transfer Learning Networks With Dynamic Kullback–Leibler Divergence Weights for Mechanical Fault Diagnosis</a> <br />
+ <b>Lu Feiyu</b>,Tong Qingbin, Xuedong Jiang, Feng Ziwei and Wan Qingzhu <br />
+<i>IEEE Transactions on Industrial Informatics <b>(IEEE TII)</b>, 2022. [一区]<a href="files/Deep_Multilayer_Sparse_Regularization_Time-Varying_Transfer_Learning_Networks_With_Dynamic_KullbackLeibler_Divergence_Weights_for_Mechanical_Fault_Diagnosis.pdf">[pdf]</a></i></p>
+</li></ul>
+
 <ul>
 <li><p><a href="https://www.sciencedirect.com/science/article/pii/S1474034624001848?via%3Dihub">Towards multi-scene learning: A novel cross-domain adaptation model based on sparse filter for traction motor bearing fault diagnosis in high-speed EMU</a> <br />
  <b>Lu Feiyu</b>, Tong Qingbin,Jianjun Xu <br />
