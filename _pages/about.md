@@ -12,6 +12,11 @@ redirect_from:
 
 学术论文
 ======
+<ul>
+<li><p><a href="https://ieeexplore.ieee.org/document/10634863">DPICEN: Deep Physical Information Consistency Embedded Network for Bearing Fault Diagnosis under Unknown Domain</a> <br />
+ <b>Lu Feiyu</b>,Tong Qingbin, Jiang Xuedong<br />
+<i>Reliability Engineering & System Safety <b>(RESS)</b>, 2024 [一区]<a href="files/DMsrTTLN.pdf">[pdf]</a></i></p>
+</li></ul>
 
 <ul>
 <li><p><a href="https://ieeexplore.ieee.org/document/10634863">Deep Multilayer Sparse Regularization Time-Varying Transfer Learning Networks With Dynamic Kullback–Leibler Divergence Weights for Mechanical Fault Diagnosis</a> <br />
