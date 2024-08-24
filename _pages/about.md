@@ -13,6 +13,12 @@ redirect_from:
 学术论文
 ======
 <ul>
+<li><p><a href="https://www.sciencedirect.com/science/article/pii/S147403462400435X">Envelope spectrum neural network with adaptive domain weight harmonization for intelligent bearing fault diagnosis under cross-machine scenarios</a> <br />
+ <b>Lu Feiyu</b>,Tong Qingbin, Jiang Xuedong<br />
+<i>Advanced Engineering Informatics <b>(AEI)</b>, 2024 [一区]<a href="files/DMsrTTLN.pdf">[pdf]</a></i></p>
+</li></ul>
+
+<ul>
 <li><p><a href="https://ieeexplore.ieee.org/document/10634863">DPICEN: Deep Physical Information Consistency Embedded Network for Bearing Fault Diagnosis under Unknown Domain</a> <br />
  <b>Lu Feiyu</b>,Tong Qingbin, Jiang Xuedong<br />
 <i>Reliability Engineering & System Safety <b>(RESS)</b>, 2024 [一区]<a href="files/DMsrTTLN.pdf">[pdf]</a></i></p>
