@@ -19,7 +19,7 @@ redirect_from:
 </li></ul>
 
 <ul>
-<li><p><a href="https://ieeexplore.ieee.org/document/10634863">DPICEN: Deep Physical Information Consistency Embedded Network for Bearing Fault Diagnosis under Unknown Domain</a> <br />
+<li><p><a href="https://www.sciencedirect.com/science/article/pii/S095183202400526X">DPICEN: Deep Physical Information Consistency Embedded Network for Bearing Fault Diagnosis under Unknown Domain</a> <br />
  <b>Lu Feiyu</b>,Tong Qingbin, Jiang Xuedong<br />
 <i>Reliability Engineering & System Safety <b>(RESS)</b>, 2024 [一区]<a href="files/DMsrTTLN.pdf">[pdf]</a></i></p>
 </li></ul>
