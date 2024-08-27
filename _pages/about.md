@@ -12,120 +12,120 @@ redirect_from:
 
 学术论文
 ======
-<ul>
+<ol start="12">
 <li><p><a href="https://www.sciencedirect.com/science/article/pii/S147403462400435X">Envelope spectrum neural network with adaptive domain weight harmonization for intelligent bearing fault diagnosis under cross-machine scenarios</a> <br />
  <b>Lu Feiyu</b>,Tong Qingbin, Jiang Xuedong<br />
 <i>Advanced Engineering Informatics <b>(AEI)</b>, 2024 [一区]<a href="files/DMsrTTLN.pdf">[pdf]</a></i></p>
-</li></ul>
+</li></ol>
 
-<ul>
+<ol start="11">
 <li><p><a href="https://www.sciencedirect.com/science/article/pii/S095183202400526X">DPICEN: Deep Physical Information Consistency Embedded Network for Bearing Fault Diagnosis under Unknown Domain</a> <br />
  <b>Lu Feiyu</b>,Tong Qingbin, Jiang Xuedong<br />
 <i>Reliability Engineering & System Safety <b>(RESS)</b>, 2024 [一区]<a href="files/DMsrTTLN.pdf">[pdf]</a></i></p>
-</li></ul>
+</li></ol>
 
-<ul>
+<ol start="10">
 <li><p><a href="https://ieeexplore.ieee.org/document/10634863">Deep Multilayer Sparse Regularization Time-Varying Transfer Learning Networks With Dynamic Kullback–Leibler Divergence Weights for Mechanical Fault Diagnosis</a> <br />
  <b>Lu Feiyu</b>,Tong Qingbin, Jiang Xuedong, Feng Ziwei, Xu Jianjun and Huo Jingyi<br />
 <i>IEEE Transactions on Industrial Informatics <b>(IEEE TII)</b>, 2024 [一区]<a href="files/DMsrTTLN.pdf">[pdf]</a></i></p>
-</li></ul>
+</li></ol>
 
-<ul>
+<ol start="9">
 <li><p><a href="https://www.sciencedirect.com/science/article/pii/S1474034624001848?via%3Dihub">Towards multi-scene learning: A novel cross-domain adaptation model based on sparse filter for traction motor bearing fault diagnosis in high-speed EMU</a> <br />
  <b>Lu Feiyu</b>, Tong Qingbin,Jianjun Xu <br />
 <i>Advanced Engineering Informatics <b>(AEI)</b>, 2024. [一区]<a href="files/1-s2.0-S1474034624001848-main.pdf">[pdf]</a></i></p>
-</li></ul>
+</li></ol>
 
-<ul>
+<ol start="8">
 <li><p><a href="https://www.sciencedirect.com/science/article/pii/S0888327024002425?via%3Dihub">A deep targeted transfer network with clustering pseudo-label learning for fault diagnosis across different Machines</a> <br />
  <b>Lu Feiyu</b>, Tong Qingbin,Xuedong Jiang <br />
 <i>Mechanical Systems and Signal Processing <b>(MSSP)</b>, 2024. [一区]<a href="files/A deep targeted transfer network with clustering pseudo-label.pdf">[pdf]</a></i></p>
-</li></ul>
+</li></ol>
 
-<ul>
+<ol start="7">
 <li><p><a href="https://ieeexplore.ieee.org/document/9931460">Unbalanced Bearing Fault Diagnosis under Various Speeds based on Spectrum Alignment and Deep Transfer Convolution Neural Network</a> <br />
  <b>Lu Feiyu</b>,Tong Qingbin,Feng Ziwei and Wan Qingzhu <br />
 <i>IEEE Transactions on Industrial Informatics <b>(IEEE TII)</b>, 2022. [一区]<a href="files/Unbalanced_Bearing_Fault_Diagnosis_under_Various_Speeds_based_on_Spectrum_Alignment_and_Deep_Transfer_Convolution_Neural_Network.pdf">[pdf]</a></i></p>
-</li></ul>
+</li></ol>
 
-<ul>
+<ol start="6">
 <li><p><a href="https://www.mdpi.com/2076-3417/12/14/7346">A Novel Method for Fault Diagnosis of Bearings with Small and Imbalanced Data Based on Generative Adversarial Networks</a> <br />
 Tong Qingbin, <b>Lu Feiyu</b>,Feng Ziwei and Wan Qingzhu <br />
 <i>Applied Sciences, 2022. [四区][PDF]</i></p>
-</li></ul>
+</li></ol>
 
-<ul>
+<ol start="5">
 <li><p><a href="https://iopscience.iop.org/article/10.1088/1361-6501/ac78c5">Explainable 1DCNN with demodulated frequency features method for fault diagnosis of rolling bearing under time-varying speed conditions</a> <br />
  <b>Lu Feiyu</b>,Tong Qingbin,Feng Ziwei and Wan Qingzhu <br />
 <i>Measurement Science and Technology <b>(MST)</b>, 2022. [三区][PDF]</i></p>
-</li></ul>
+</li></ol>
 
-<ul>
+<ol start="4">
 <li><p><a href="https://link.springer.com/article/10.1007/s12206-021-0405-7">A parameter-adaptive ACMD method based on particle swarm optimization algorithm for rolling bearing fault diagnosis under variable speed</a> <br />
 Ma Zengqiang, <b>Lu Feiyu</b>,Liu Suyan and Li Xin <br />
 <i>Journal of Mechanical Science and Technology <b>(JMST)</b>, 2021. [四区][PDF]</i></p>
-</li></ul>
+</li></ol>
 
 
-<ul>
+<ol start="3">
 <li><p><a href="https://ieeexplore.ieee.org/document/8970283/">An Adaptive Generalized Demodulation Method for Multimedia Spectrum Analysis is Applied in Rolling Bearing Fault Diagnosis</a> <br />
 Ma Zengqiang, <b>Lu Feiyu</b>,Liu Suyan and Li Xin <br />
 <i>IEEE ACCESS, 2020. [二区][PDF]</i></p>
-</li></ul>
+</li></ol>
 
 
-<ul>
+<ol start="2">
 <li><p><a href="https://kns.cnki.net/kcms2/article/abstract?v=kxD1c6RDvBzejNFsUwEizdS3PdNOLlBQvMV_QmcbkADnThOqM3Hbt6r4zzEHJi0R-p04yK6KyqN_adHfyws9O76NzJzQu88FrtLiVELQyJnY7uKexk8OCO53WszaLoQJjeCSeCIAMJWOD7EL8HOYw292d6o6kwwAEBUMXADWv5bDMMZZrZH5lXn90ug5kgqw&uniplatform=NZKPT&language=CHS">一种基于条件度量迁移学习的机械故障诊断可解释方法</a> <br />
 <b>路飞宇</b>,佟庆彬, 姜学东 <br />
 <i>仪器仪表学报, 2024 [EI][PDF]</i></p>
-</li></ul>
+</li></ol>
 
 
-<ul>
+<ol start="1">
 <li><p><a href="http://jvs.sjtu.edu.cn/CN/abstract/abstract9915.shtml">一种基于广义解调的滚动轴承故障特征提取方法</a> <br />
 马增强, <b>路飞宇</b>,刘素艳, 李欣, 胡鑫磊 <br />
 <i>振动与冲击, 2020. [EI][PDF]</i></p>
-</li></ul>
+</li></ol>
   
   
 <h3>其它合著</h3>	
 
-<ul>
+<ol start="5">
 <li><p><a href="https://www.mdpi.com/1424-8220/24/7/2079">Deep Reconstruction Transfer Convolutional Neural Network for Rolling Bearing Fault Diagnosis</a> <br />
 Feng Ziwei, Tong Qingbin, Xuedong Jiang, <b>Lu Feiyu</b> <br />
 <i>Sensor, 2024. [三区][PDF]</i></p>
-</li></ul>
+</li></ol>
 
-<ul>
+<ol start="4">
 <li><p><a href="https://iopscience.iop.org/article/10.1088/1361-6501/ad28b0">Interpretable parallel channel encoding convolutional neural network for bearing fault diagnosis</a> <br />
  Tong Qingbin,Shouxin Du, Xuedong Jiang, <b>Lu Feiyu</b> <br />
 <i>Measurement Science and Technology <b>(MST)</b>, 2024. [三区][PDF]</i></p>
-</li></ul>
+</li></ol>
 
-<ul>
+<ol start="3">
 <li><p><a href="https://www.mdpi.com/1424-8220/22/16/6108">A New De-Noising Method Based on Enhanced Time-Frequency Manifold and Kurtosis-Wavelet Dictionary for Rolling Bearing Fault Vibration Signal</a> <br />
 Tong Qingbin,  Liu Ziyu, <b>Lu Feiyu</b>,Feng Ziwei and Wan Qingzhu <br />
 <i>Sensor, 2022. [三区][PDF]</i></p>
-</li></ul>
+</li></ol>
 
-<ul>
+<ol start="2">
 <li><p><a href="https://ieeexplore.ieee.org/document/9144567">Fractional Synchrosqueezing Transformation and its Application in the Estimation of the Instantaneous Frequency of a Rolling Bearing</a> <br />
 Li Xin,  Ma Zengqiang, Liu Suyan, and <b>Lu Feiyu</b>,<br />
 <i>IEEE ACCESS, 2020. [二区][PDF]</i></p>
-</li></ul>
+</li></ol>
 
-<ul>
+<ol start="1">
 <li><p><a href="https://www.jstage.jst.go.jp/article/jamdsm/14/7/14_2020jamdsm0104/_article">Envelope demodulation method based on SET for fault diagnosis of rolling bearings under variable speed</a> <br />
 Ma Zengqiang, Li Xin, Liu Suyan, Ge Yongjie, and <b>Lu Feiyu</b>,<br />
 <i>Journal of Advanced Mechanical Design Systems and Manufacturing, 2020. [四区][PDF]</i></p>
-</li></ul>
+</li></ol>
 
   
   
 
 专利等知识产权
 ======
-<ol>
+<ol start="1">
 <li><p>佟庆彬,<b>路飞宇</b>,冯子微,刘子雨,万庆祝,曹君慈,安国平,王猛,刘瑞芳. 变转速工况下样本不平衡的滚动轴承故障诊断方法及系统[P]. 北京市：CN114838936A,2022-08-02. (已授权)</p></li>
 <li><p>佟庆彬,<b>路飞宇</b>,冯子微,刘子雨,万庆祝,曹君慈,安国平,王猛,刘瑞芳. 基于可解释1DCNN模型的滚动轴承故障诊断方法及系统[P]. 北京市：CN114298110A,2022-04-08. (已授权)</p></li>
 <li><p>基于广义解调的滚动轴承故障诊断系统（软件著作权）</p></li>
