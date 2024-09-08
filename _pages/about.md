@@ -12,6 +12,13 @@ redirect_from:
 
 学术论文
 ======
+<ol start="13">
+<li><p><a href="https://doi.org/10.1016/j.compind.2024.104169">Prior knowledge embedding convolutional autoencoder: a single-source domain generalized fault diagnosis framework under small samples</a> <br />
+ <b>Lu Feiyu</b>,Tong Qingbin, Jiang Xuedong<br />
+<i>Computers in Industry <b>(COMIND)</b>, 2024 [一区]<a href="files/DMsrTTLN.pdf">[pdf]</a></i></p>
+</li></ol>
+
+
 <ol start="12">
 <li><p><a href="https://www.sciencedirect.com/science/article/pii/S147403462400435X">Envelope spectrum neural network with adaptive domain weight harmonization for intelligent bearing fault diagnosis under cross-machine scenarios</a> <br />
  <b>Lu Feiyu</b>,Tong Qingbin, Jiang Xuedong<br />
