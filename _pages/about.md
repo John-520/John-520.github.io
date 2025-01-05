@@ -186,4 +186,11 @@ Ma Zengqiang, Li Xin, Liu Suyan, Ge Yongjie, and <b>Lu Feiyu</b>,<br />
 
 
 
+学术兼职	
+======
+
+中国铁道学会会员、电工技术学会会员。参加 2020年第一届轨道车辆运维学术论坛，2024年第八届电气化交通前沿技术论坛等会议。担任 IEEE Transactions on Industrial Informatics，IEEE Transactions on Neural Networks and Learning Systems，Advanced Engineering Informatics，Measurement Science and Technology等多个国际期刊审稿人。
+
+
+
 <a href="https://info.flagcounter.com/Y7F9"><img src="https://s11.flagcounter.com/count2/Y7F9/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_6/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
