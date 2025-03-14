@@ -54,7 +54,7 @@ redirect_from:
 <ol start="9">
 <li><p><a href="https://www.sciencedirect.com/science/article/pii/S1474034624001848?via%3Dihub">Towards multi-scene learning: A novel cross-domain adaptation model based on sparse filter for traction motor bearing fault diagnosis in high-speed EMU</a> <br />
  <b>Lu Feiyu</b>, Tong Qingbin,Jianjun Xu <br />
-<i>Advanced Engineering Informatics <b>(AEI)</b>, 2024. [一区]<a href="files/1-s2.0-S1474034624001848-main.pdf">[pdf]</a></i></p><b>(ESI高被引)</b>
+<i>Advanced Engineering Informatics <b>(AEI)</b>, 2024. [一区]<a href="files/1-s2.0-S1474034624001848-main.pdf">[pdf]</a></i><b>(ESI高被引)</b></p>
 </li></ol>
 
 <ol start="8">
