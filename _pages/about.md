@@ -29,6 +29,14 @@ redirect_from:
 
 学术论文
 ======
+
+<ol start="14">
+<li><p><a href=" https://doi.org/10.1080/10589759.2025.2517684">A novel deep dynamic hybrid domain adaptation network with physical information enhancement for cross-machine fault diagnosis</a> <br />
+ <b>Lu Feiyu</b>,Tong Qingbin, Jiang Xuedong<br />
+<i>Nondestructive Testing and Evaluation <b>(Nondestructive Testing and Evaluation)</b>, 2025 [二区]<a href="files/DMsrTTLN.pdf">[pdf]</a></i></p>
+</li></ol>
+
+
 <ol start="13">
 <li><p><a href="https://doi.org/10.1016/j.compind.2024.104169">Prior knowledge embedding convolutional autoencoder: a single-source domain generalized fault diagnosis framework under small samples</a> <br />
  <b>Lu Feiyu</b>,Tong Qingbin, Jiang Xuedong<br />
