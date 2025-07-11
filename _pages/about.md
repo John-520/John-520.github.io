@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-路飞宇，1997年生，石家庄铁道大学，电气与电子工程学院，讲师，入选 2024 年中国科协青年人才托举工程博士生专项计划（首批）。研究兴趣包括：深度学习、先进信号分析方法、旋转机械故障诊断。面向我国轨道交通发展战略，本人在高速列车轴承故障诊断领域产出了一些研究成果。截至目前，共发表SCI论文19篇，中文EI论文2篇。其中，以第一作者身份发表7篇中科院SCI一区Top论文。获得授权国家发明专利4项，软件著作权 2 项。主持并参与了多项国家级、省部级和校级科研项目。谷歌学术引用量达到205。此外，开设的微信公众号《轴承智能故障诊断》目前拥有千余粉丝，并在GitHub开源了多个先进模型代码，为该领域提供了参考案例。
+路飞宇，1997年生，石家庄铁道大学，电气与电子工程学院，讲师，入选 2024 年中国科协青年人才托举工程博士生专项计划（首批）。研究兴趣包括：深度学习、先进信号分析方法、旋转机械故障诊断。面向我国轨道交通发展战略，本人在高速列车轴承故障诊断领域产出了一些研究成果。截至目前，共发表SCI论文20篇，中文EI论文2篇。其中，以第一作者身份发表8篇中科院SCI一区Top论文。获得授权国家发明专利4项，软件著作权 2 项。主持并参与了多项国家级、省部级和校级科研项目。谷歌学术引用量达到205。此外，开设的微信公众号《轴承智能故障诊断》目前拥有千余粉丝，并在GitHub开源了多个先进模型代码，为该领域提供了参考案例。
 
 
 研究领域
@@ -29,6 +29,12 @@ redirect_from:
 
 学术论文
 ======
+
+<ol start="15">
+<li><p><a href="https://www.sciencedirect.com/science/article/pii/S1474034625005257?dgcid=coauthor#f0020">Adaptive single-source open domain generalization network: a novel physical information fusion framework for fault diagnosis based on physically embedded autoencoder and adaptive open-set feature separation</a> <br />
+ <b>Lu Feiyu</b>,Tong Qingbin, Jiang Xuedong<br />
+<i>Advanced Engineering Informatics <b>(AEI)</b>, 2025 [一区]<a href="files/DMsrTTLN.pdf">[pdf]</a></i></p>
+</li></ol>
 
 <ol start="14">
 <li><p><a href=" https://doi.org/10.1080/10589759.2025.2517684">A novel deep dynamic hybrid domain adaptation network with physical information enhancement for cross-machine fault diagnosis</a> <br />
