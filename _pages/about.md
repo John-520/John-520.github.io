@@ -31,7 +31,7 @@ redirect_from:
 ======
 
 <ol start="16">
-<li><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832025007288?CMX_ID=&SIS_ID=&dgcid=STMJ_220042_AUTH_SERV_PA&utm_acid=274998619&utm_campaign=STMJ_220042_AUTH_SERV_PA&utm_in=DM588831&utm_medium=email&utm_source=AC_">Wavelet packet energy embedded autoencoder with dynamic weighting strategy for fault diagnosis under unknown working conditions</a> <br />
+<li><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832025007288">Wavelet packet energy embedded autoencoder with dynamic weighting strategy for fault diagnosis under unknown working conditions</a> <br />
  <b>Lu Feiyu</b>,Tong Qingbin, Jiang Xuedong<br />
 <i>Reliability Engineering & System Safety <b>(RESS)</b>, 2024 [一区]<a href="files/DMsrTTLN.pdf">[pdf]</a></i></p>
 </li></ol>
