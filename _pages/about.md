@@ -43,7 +43,7 @@ redirect_from:
 </li></ol>
 
 <ol start="14">
-<li><p><a href=" https://doi.org/10.1080/10589759.2025.2517684">A novel deep dynamic hybrid domain adaptation network with physical information enhancement for cross-machine fault diagnosis</a> <br />
+<li><p><a href="https://www.tandfonline.com/doi/full/10.1080/10589759.2025.2517684">A novel deep dynamic hybrid domain adaptation network with physical information enhancement for cross-machine fault diagnosis</a> <br />
  <b>Lu Feiyu</b>,Tong Qingbin, Jiang Xuedong<br />
 <i>Nondestructive Testing and Evaluation <b>(Nondestructive Testing and Evaluation)</b>, 2025 [二区]<a href="files/DMsrTTLN.pdf">[pdf]</a></i></p>
 </li></ol>
