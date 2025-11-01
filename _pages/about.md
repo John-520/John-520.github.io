@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-路飞宇，1997年生，石家庄铁道大学，电气与电子工程学院，讲师，入选 2024 年中国科协青年人才托举工程博士生专项计划（首批）。研究兴趣包括：深度学习、先进信号分析方法、旋转机械故障诊断。面向我国轨道交通发展战略，本人在高速列车轴承故障诊断领域产出了一些研究成果。截至目前，共发表SCI论文21篇，中文EI论文2篇。其中，以第一作者身份发表9篇中科院SCI一区Top论文。获得授权国家发明专利4项，软件著作权 2 项。主持并参与了多项国家级、省部级和校级科研项目。谷歌学术引用量达到205。此外，开设的微信公众号《轴承智能故障诊断》目前拥有千余粉丝，并在GitHub开源了多个先进模型代码，为该领域提供了参考案例。
+路飞宇，1997年生，石家庄铁道大学，电气与电子工程学院，讲师，入选 2024 年中国科协青年人才托举工程博士生专项计划（首批）。研究兴趣包括：深度学习、先进信号分析方法、旋转机械故障诊断。面向我国轨道交通发展战略，本人在高速列车故障诊断领域产出了一些研究成果。截至目前，共发表SCI论文22篇，中文EI论文2篇。其中，以第一作者身份发表9篇中科院SCI一区Top论文。获得授权国家发明专利4项，软件著作权 2 项。主持并参与了多项国家级、省部级和校级科研项目。谷歌学术引用量达到205。此外，开设的微信公众号《先进系统测控与运维前沿》目前拥有千余粉丝，并在GitHub开源了多个先进模型代码，为该领域提供了参考案例。
 
 
 研究领域
@@ -29,6 +29,11 @@ redirect_from:
 
 学术论文
 ======
+<ol start="17">
+<li><p><a href="https://onlinelibrary.wiley.com/doi/10.1155/stc/6359435">Decoupling Machine and Operational Variances: A Spectral Attention Framework for Robust Few-Shot Cross-Machine Fault Diagnosis</a> <br />
+ Hao Wei, Chao He, <b>Lu Feiyu</b><br />
+<i>Structural Control and Health Monitoring, 2025 [一区]<a href="files/DMsrTTLN.pdf">[pdf]</a></i></p>
+</li></ol>
 
 <ol start="16">
 <li><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832025007288">Wavelet packet energy embedded autoencoder with dynamic weighting strategy for fault diagnosis under unknown working conditions</a> <br />
