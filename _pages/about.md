@@ -31,7 +31,7 @@ redirect_from:
 ======
 <ol start="17">
 <li><p><a href="https://onlinelibrary.wiley.com/doi/10.1155/stc/6359435">Decoupling Machine and Operational Variances: A Spectral Attention Framework for Robust Few-Shot Cross-Machine Fault Diagnosis</a> <br />
- Hao Wei, Chao He, <b>Lu Feiyu</b><br />
+ Hao Wei*, Chao He, Suyan Liu, Zefeng Song, <b>Lu Feiyu*</b><br />
 <i>Structural Control and Health Monitoring, 2025 [一区]<a href="files/DMsrTTLN.pdf">[pdf]</a></i></p>
 </li></ol>
 
